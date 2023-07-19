@@ -1,9 +1,9 @@
-# 🏞️ Terraform Application for provisioning MongoDB in mongodb atlas
+## 🏞️ Terraform Application for provisioning MongoDB in mongodb atlas
 
 This repository is dedicated to simplifying the deployment and management of MongoDB in MongoDB Atlas.
 
 
-🚀 Get Started 🚀
+### 🚀 Get Started 🚀
 
 To start using this, follow these simple steps:
 
