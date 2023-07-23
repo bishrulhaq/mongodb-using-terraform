@@ -4,6 +4,7 @@ resource "mongodbatlas_advanced_cluster" "cluster" {
   name                   = var.cluster_name
   mongo_db_major_version = var.mongodbversion
   cluster_type           = "REPLICASET"
+  backup_enabled         = true
 
   replication_specs {
     region_configs {
